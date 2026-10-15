@@ -52,3 +52,39 @@
 - [Challenges faced / technical decisions made]
 - [Current limitations of the project]
 - [Potential improvements for the future]
+
+  ---
+
+## 🔄 Stage 2 – Improvement
+- **Team number:** [Enter number]
+- **Members:**
+  - [Full Name]
+  - [Full Name]
+  - [Full Name]
+  - [Full Name]
+  - [Full Name]
+
+### 🚀 Improvement Description
+- **What was improved:**
+[Brief description of the improvement applied to the Stage 1 project]
+- **Why:**
+[Problem or limitation from Stage 1 that motivated it]
+
+### 🔩 Component Changes
+| Change | Component | Quantity | Notes |
+|---|---|---|---|
+| [Added / Removed / Replaced] | [Component] | [ ] | [ ] |
+| [Added / Removed / Replaced] | [Component] | [ ] | [ ] |
+
+*(Write "No hardware changes" if only the firmware was modified)*
+
+### 🛠️ Updated Usage Instructions
+[New or changed steps only (wiring, libraries, upload, expected output), or "No changes from Stage 1"]
+
+### 🧪 Updated Simulation
+- Wokwi project link: [Enter link if available, or "Same as Stage 1"]
+- Diagram/export files: [Enter file names/paths if included in the repo]
+
+### 📝 Additional Notes
+- [Challenges faced / technical decisions made]
+- [Remaining limitations]
